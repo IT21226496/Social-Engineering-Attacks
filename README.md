@@ -1,4 +1,4 @@
 # Social-Engineering-Attacks
-Year 2 Semester 1 Individual Project
+Year 2 Semester 1 Individual Project.
 This report consists of Social Engineering Attacks and it's evolution.
 Social engineering attacks pose a significant threat to the world today. According to a 2016 report by Cyence, the United States experienced the highest number of these attacks, with Germany and Japan facing the highest financial costs. These attacks cost the US an estimated $121.22 billion. U.S. businesses, holding valuable data, are heavily targeted by cybercriminals, impacting the global economy and privacy. The Equifax breach in 2018 exposed the personal data of 145.5 million American consumers, leading to severe consequences. Social engineering attacks weaken cybersecurity defenses, relying on human interactions to manipulate individuals into divulging sensitive information. Technical measures alone cannot prevent such attacks, highlighting the need for improved training and awareness to combat this growing threat.
